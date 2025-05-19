@@ -15,6 +15,7 @@ Vamos lá para o desenvolvimento
     <div class="caption">
         <p>O futuro da tecnologia está em suas mãos.</p>
     </div>
+    
 </div>
 .image-container {
     position: relative;
@@ -22,6 +23,7 @@ Vamos lá para o desenvolvimento
     max-width: 600px; /* Tamanho máximo da imagem */
     margin: 0 auto; /* Alinha a imagem ao centro */
 }
+
 
 .image-container img {
     width: 100%; /* Faz a imagem ocupar 100% do contêiner */
